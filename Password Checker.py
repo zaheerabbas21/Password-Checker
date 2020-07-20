@@ -89,7 +89,7 @@ def main_user_input():
 
 
 def main_command_line(args):
-
+    ''' Call this function by giving multiple command line arguments'''
     for password in args:
         count = check_my_password(password)
         if count:
