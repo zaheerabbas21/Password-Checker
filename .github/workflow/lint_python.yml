@@ -2,7 +2,6 @@ name: lint_python
 on: [pull_request, push]
 jobs:
   lint_python:
-    strategy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
