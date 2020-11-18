@@ -29,8 +29,12 @@ You should copy the **Password Checker.py** file into your local computer. This 
 **Uncomment any one of the function call(you can find those below at the bottom of the file) that you want to run and check if your password has been pwned or not securely**
 
 # Testing
-**I have tested this file on windows machine. If you are using a different OS and not getting the intended result please revert back it to me so that I can modify this code. Or you are welcome
-to fork this repo and do the modification yourself.** You might face this problem if you are using main_file(filename) function because I did not write it using Pathlib module.
-So if any problem arises please feel free to revert back to me. My email address is visible on my github account.
+**I have tested this file on windows and Linux(Ubuntu 20.04) machine. If you are using a different OS and not getting the intended result please open an issue so that I can modify this code. Or you are welcome to fork this repo and do the modification yourself.**
+You might face this problem if you are using main_file(filename) function because I
+did not write it using Pathlib module. So if any problem arises please feel free to
+open an issue if possible.
 
-**Thank you for visiting this project**
+**If you do like the project, consider giving it a star, I will appreciate it.**
+
+
+**Thank you for checking out the project.**
